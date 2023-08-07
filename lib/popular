@@ -1,0 +1,29 @@
+{
+"total_size":2,
+"type_id":2,
+"offset":0,
+"product":[
+{
+"id":1,
+"name": "food1",
+"description": "Sandwiches are wonderfulI love sandwiches Unknown Sandwiches are wonderfulI love sandwiches Unknown Sandwiches are wonderfulI love sandwiches Unknown Sandwiches are wonderfulI love sandwiches Unknown Sandwiches are wonderfulI love sandwiches Unknown Sandwiches are wonderfulI love sandwiches Unknown.",
+"price": "220",
+"stars": "5",
+"location": "china",
+"created_at": "2021-12-23",
+"updated_at": "2022-23-10",
+"type_id": 2
+},
+{
+"id":2,
+"name": "food2",
+"description": "Sandwiches are wonderfulI love sandwiches Unknown Sandwiches are wonderfulI love sandwiches Unknown Sandwiches are wonderfulI love sandwiches Unknown Sandwiches are wonderfulI love sandwiches Unknown Sandwiches are wonderfulI love sandwiches Unknown Sandwiches are wonderfulI love sandwiches Unknown",
+"price": "400",
+"stars": "4",
+"location": "goa",
+"created_at": "2021-12-23",
+"updated_at": "2022-23-10",
+"type_id": 2
+},
+]
+}
